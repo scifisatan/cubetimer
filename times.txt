@@ -1,0 +1,3 @@
+R' L' D F L' B2 D2 F R' U' F' B' D L' R' F D L' R       1.174
+R B' U2 F L' B U' R' L' U2 F' L' R F' U D' F2 L R2       0.688
+F2 R2 L2 B2 R D2 L' F2 B2 L R F2 B2 L' D' B' L2 D U'       0.309
